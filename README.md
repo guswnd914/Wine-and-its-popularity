@@ -5,9 +5,13 @@ February 7, 2020
 
 ### Description
 
-Wine is important for civilized humans, or at least to my thought.
+Wine is important for civilized people, or at least it is to me.
 
-Then, what makes some wine more popular than other wine?
+And these civilized people must have their unique preferences that most wine should be sold that matches with their special tastes.
+
+However, these special tastes also have their standard that creates ratings and popluarity. 
+
+Then, what makes some wine to be more popular and higher ratings?
 
 The primary purpose of this project is to answer 3 questions :
 
