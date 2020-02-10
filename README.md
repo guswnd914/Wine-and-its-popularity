@@ -1,9 +1,13 @@
-# Wine-evaluation-white-vs-red
-This is the project from Udacity to hone my skills in data visualization and analysis.
+# The wine evaluation analysis
 
-Two data are given, winequality-red.csv and winequality-white.csv, consited of columns that are :
+# Date created
+February 7, 2020
 
-[fixed_acidity, volatile_acidity, citric_acid, residual_sugar, chlorides, free_sulfur_dioxide, total_sulfur-dioxide, density, pH, sulphates, alcohol, quality]
+# Description
+
+Wine is important for civilized humans, or at least to my thought.
+
+Then, what makes some wine more popular than other wine?
 
 The primary purpose of this project is to answer 3 questions :
 
