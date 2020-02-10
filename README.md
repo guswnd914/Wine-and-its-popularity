@@ -1,9 +1,9 @@
 # The wine evaluation analysis
 
-# Date created
+### Date created
 February 7, 2020
 
-# Description
+### Description
 
 Wine is important for civilized humans, or at least to my thought.
 
@@ -19,7 +19,7 @@ The primary purpose of this project is to answer 3 questions :
 
 Thank you so much for reading this.
 
-# Contents
+### Contents
 appending - Appended two data (red wine data, white wine data) to facilitate analysis later
 
 conclusions_groupby - Classified data by "acidity level", which is categorized by interquartile range of pH, and grouped this by quqality and color.
